@@ -1,0 +1,161 @@
+.first{
+    text-align: center;
+    padding: 20px;
+}
+#img1{
+    padding-top: 100px;
+}
+.first{
+    background-color: #1b1a17;
+    
+}
+#img2-logo{
+    width: 200px;
+    height: 200px;
+}
+
+#content{
+    background-color:black;
+    text-align: center;
+  
+
+
+}
+#content h1:hover{
+    color: white;
+}
+#content h1{
+    color: chartreuse;
+    font-family:  'Goblin One', cursive;
+    font-weight: bolder;
+}
+
+#content h3{
+    font-weight:lighter;
+    color: white;
+    padding-top: 5px;
+}
+.box{
+   padding: 7% 15%;
+   
+
+  
+}
+.ic{
+    padding-bottom: 50px;
+    color: white;
+}
+.ic:hover{
+    color: yellowgreen;
+}
+.image25{
+    width: 500px;
+    height: 500px;
+}
+
+/* info*/
+.info-img{
+    width: 550px;
+    height: 550px;
+    border-radius: 5%;
+
+}
+#caro{
+    text-align: center;
+    background-color:#151515;
+ 
+}
+.information h2{
+    font-family: 'Pattaya', sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    padding-top: 60px;
+   
+}
+.information{
+  
+    margin: 0 15%;
+}
+
+
+.arrow{
+    color: white;
+    position: absolute;
+}
+.info-img3{
+    width: 550px;
+    height: 550px;
+    border-radius: 5%;
+}
+
+
+.carousel-inner{
+    background-color: #151515;
+    text-align: center;
+
+}
+.cario{
+    margin-left: 200px;
+}
+.news{
+    font-family: 'Chela One', cursive;
+    text-align: center;
+    font-size: 100px;
+    padding: 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/*NEWS*/
+.head1 h2{
+    
+    font-size: 30;
+}
+.head1 p{
+    font-size: 20px;
+    padding: 20px;
+}
+.head1{
+    color: black;
+
+}
+.head-bg{
+    background-color: white;
+}
+/*rates*/
+.tab{
+    text-align: center;
+}
+
+.mar-head{
+    text-align: center;
+    font-family: 'Chela One', cursive;
+    font-size: 100px;
+    padding: 15px;
+    font-weight: bold;
+}
+.tab{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+/*footer*/
+.foter{
+    text-align: center;
+}
+    
+.img-fot{
+    border-radius: 100%;
+}
+#footer{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+
+
+
